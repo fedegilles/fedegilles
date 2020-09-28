@@ -14,7 +14,7 @@
 <br />
 
 ### Mi nombre es Fede Gilles
-- Diseñador UX
+- Diseñador UX/UI
 - Web developer
 - Entusiasta Open source
 - Curioso de nacimiento
