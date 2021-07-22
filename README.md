@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/federico-gilles-48751758/">
   <img align="left" alt="Fedegilles Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/fedegilles">
-  <img align="left" alt="Fedegilles Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <br />
 
 ### Mi nombre es Fede Gilles
