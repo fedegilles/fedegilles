@@ -11,8 +11,7 @@
 <br />
 
 ### Mi nombre es Fede Gilles
-- Diseñador UX/UI
-- Web developer
-- Entusiasta Open source
-- Curioso de nacimiento
-- Tech Geek
+Product designer || 🇦🇷 Argentina.
+-----
+co-founder 
+www.perroagency.com
