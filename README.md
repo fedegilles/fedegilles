@@ -9,8 +9,7 @@
   <img align="left" alt="Fedegilles Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-
-### Mi nombre es Fede Gilles
+Fede Gilles
 Product designer || 🇦🇷 Argentina.
 -----
 co-founder 
